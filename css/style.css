@@ -65,3 +65,10 @@ body{
     color: #008ed6;
 
 }
+
+#share-section .fas{
+    padding: 5px;
+    background: #333;
+    color: #fff;
+    border-radius: 5px;
+}

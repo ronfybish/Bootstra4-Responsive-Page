@@ -7,3 +7,34 @@ body{
     border-bottom:#008ed6 2px solid ;
     opacity: 0.8;
 }
+
+#home-section{
+    background-image: url(../img/home.jpg);
+    background-repeat: no-repeat;
+    background-position: cover;
+    background-attachment: fixed;
+    min-height: 700px;
+}
+
+#home-section .dark-overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 700px;
+    background: rgba(0, 0, 0, 0.7);
+}
+
+#home-section .home-inner{
+    padding-top: 150px;
+}
+
+#home-section .card-form{
+    opacity: 0.8;
+}
+
+#homes-section .fas{
+    border-radius: 5px;
+    background: #fff;
+    padding: 5px;
+}

@@ -33,8 +33,35 @@ body{
     opacity: 0.8;
 }
 
-#homes-section .fas{
+#home-section .fas{
+    color: #008ed6;
+    background: #fff;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+#explore-head-section{
+    background: #333;
+    color: #fff;
+    padding: 5px;
+}
+
+#explore-section .fas{
+    padding: 5px;
+    border-radius: 5px;
+    color: #fff;
+    background: #333;
+}
+
+#create-section{
+    padding: 5px;
+    background: #333;
+    color: white;
+}
+#create-section .fas{
+    padding: 5px;
     border-radius: 5px;
     background: #fff;
-    padding: 5px;
+    color: #008ed6;
+
 }
